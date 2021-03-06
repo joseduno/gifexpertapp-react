@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas sobre el componente GifGrid debe renderizar correctamente el componente 1`] = `
+<div
+  className="card-grid"
+>
+  <p
+    className="animate__animated animate__heartBeat"
+  >
+    Cargando...
+  </p>
+</div>
+`;
